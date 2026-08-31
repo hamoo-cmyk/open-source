@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(57, 163, 163);
+}
+input[type="month"] {
+    width: 150px;
+    padding: 5px;
+    font-size: 16px;
+}
+#t{
+    background-color: blue;
+
+
+}
+

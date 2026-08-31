@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(15, 46, 87);
+}
+#right{
+    position: absolute;
+    right: 10px;
+    margin-top: 10px;
+    background-color: antiquewhite;
+    width: 380px;
+    margin: auto;
+    border-style:double;
+    border-color: rgb(87, 72, 53);
+    border-radius:10px; 
+}
